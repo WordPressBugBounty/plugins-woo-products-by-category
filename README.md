@@ -1,0 +1,1 @@
+# plugins-woo-products-by-category
